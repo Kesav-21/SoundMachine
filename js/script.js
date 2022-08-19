@@ -4,64 +4,64 @@ function playAudio(str){
     switch(str){
         case "q":
         case "Q":
-            dispbar.innerHTML="Chirp.mp3";
-            dispbg.style.backgroundImage="url(./assets/img/1.jpg)";
+            dispbar.innerHTML="Cev_H2.mp3";
+            dispbg.style.backgroundImage="url(./assets/img/visual.gif)";
             dispbg.style.backgroundPosition="center";
             dispbg.style.backgroundSize="cover";
             break;
         case "w":
         case "W":
-            dispbar.innerHTML="Clank.mp3";
-            dispbg.style.backgroundImage="url(./assets/img/2.jpeg)";
+            dispbar.innerHTML="Dsc_Oh.mp3";
+            dispbg.style.backgroundImage="url(./assets/img/visual1.gif)";
             dispbg.style.backgroundPosition="center";
             dispbg.style.backgroundSize="cover";
             break;
         case "e":
         case "E":
-            dispbar.innerHTML="Crystal.mp3";
-            dispbg.style.backgroundImage="url(./assets/img/3.jpeg)";
+            dispbar.innerHTML="Heater-1.mp3";
+            dispbg.style.backgroundImage="url(./assets/img/visual.gif)";
             dispbg.style.backgroundPosition="center";
             dispbg.style.backgroundSize="cover";
             break;
         case "a":
         case "A":
-            dispbar.innerHTML="FadeOut.mp3";
-            dispbg.style.backgroundImage="url(./assets/img/4.jpeg)";
+            dispbar.innerHTML="Heater-2.mp3";
+            dispbg.style.backgroundImage="url(./assets/img/visual1.gif)";
             dispbg.style.backgroundPosition="center";
             dispbg.style.backgroundSize="cover";
             break;
         case "s":
         case "S":
-            dispbar.innerHTML="Flute.mp3";
-            dispbg.style.backgroundImage="url(./assets/img/5.jpeg)";
+            dispbar.innerHTML="Heater-3.mp3";
+            dispbg.style.backgroundImage="url(./assets/img/visual1.gif)";
             dispbg.style.backgroundPosition="center";
             dispbg.style.backgroundSize="cover";
             break;
         case "d":
         case "D":
-            dispbar.innerHTML="Guitar.mp3";
-            dispbg.style.backgroundImage="url(./assets/img/6.jpeg)";
+            dispbar.innerHTML="Heater-4.mp3";
+            dispbg.style.backgroundImage="url(./assets/img/visual1.gif)";
             dispbg.style.backgroundPosition="center";
             dispbg.style.backgroundSize="cover";
             break;
         case "z":
         case "Z":
-            dispbar.innerHTML="Harp.mp3";
-            dispbg.style.backgroundImage="url(./assets/img/7.jpeg)";
+            dispbar.innerHTML="Heater-6.mp3";
+            dispbg.style.backgroundImage="url(./assets/img/visual.gif)";
             dispbg.style.backgroundPosition="center";
             dispbg.style.backgroundSize="cover";
             break;
         case "x":
         case "X":
-            dispbar.innerHTML="NotificationXylophone.mp3";
-            dispbg.style.backgroundImage="url(./assets/img/8.jpeg)";
+            dispbar.innerHTML="Kick_n_Hat.mp3";
+            dispbg.style.backgroundImage="url(./assets/img/visual1.gif)";
             dispbg.style.backgroundPosition="center";
             dispbg.style.backgroundSize="cover";
             break;
         case "c":
         case "C":
-            dispbar.innerHTML="WindChime.mp3";
-            dispbg.style.backgroundImage="url(./assets/img/9.jpeg)";
+            dispbar.innerHTML="RP4_KICK_1.mp3";
+            dispbg.style.backgroundImage="url(./assets/img/visual.gif)";
             dispbg.style.backgroundPosition="center";
             dispbg.style.backgroundSize="cover";
             break;                          
